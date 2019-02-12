@@ -1,3 +1,4 @@
+/*teste*/ 
 package dominio;
 
 import java.io.Serializable;
